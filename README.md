@@ -4,40 +4,25 @@ It's a fun game to learn and practice CSS selectors.
 
 To play, visit [flukeout.github.io](http://flukeout.github.io/) or [cssdiner.com](http://cssdiner.com/)
 
-### Change Log
+### Change Log 
 
-**Aug 25,2016**
-* Added Twitter, Facebook and Email share actions
-  * Tracking clicks with GA Events
-* Made the level menu and editor area scroll independently
-  * Using custom jQuery scroll library
+**September 19, 2023**
+* Forked original repo
 
-**Aug 18,2016**
-* Started using ``cssdiner.com`` to redirect to ``flukeout.github.io``
+_(Please check original repo's [changelog](https://github.com/flukeout/css-diner#change-log) also.)_
 
-**Aug 12,2016**
-* Added checkmarks to completed levels in level menu and header
-
-**Aug 4,2016**
-* Began tracking progress and correct guesses with GA Events
-
-
-### Filing issues and PRs
-
-Please file issues and PRs in the [css-diner repo](https://github.com/flukeout/css-diner/).
+### Filing issues and PRs: [repo](https://github.com/in-tech-gration/css-diner).
 
 ### Repo structure
 
 Here's the repo structure, it's a bit confusing...
 
 * Currently, all of the working code (including issues, PRs and in-progress branches) is hosted in the [css-diner repo](https://github.com/flukeout/css-diner/)
-  * The lastest version of the code is on the ``develop`` branch
+  * The latest version of the code is on the ``develop`` branch
 * The live version is published from the [flukeout.github.io repo](https://github.com/flukeout/flukeout.github.io/issues)
   * Live version lives on the ``master`` branch
 
 ### Deploying
-
-This is more of a note to myself in case I forget, to deploy the latest version, I'll have to push to the ``master`` branch on the ``flukeout.github.io`` repo from the latest ``develop`` branch.
 
 # Roadmap and Status
 
